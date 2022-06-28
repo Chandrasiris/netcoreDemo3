@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqpMvh0PxOPhCPARDQk4+/EX4oGaV5JQqDKEo2Bex7F/QCGqrkZExskKSmWQt2hWXrH6l0d0gAOm1wOBy1+U7Q==",
+  "success": true,
+  "projectFilePath": "D:\\SA\\projects\\Reservation\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
